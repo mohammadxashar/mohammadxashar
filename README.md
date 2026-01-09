@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I’m Ashar</h1>
-
 ### <br><br>Currently into:<br>- Machine Learning & NLP  <br>- Data Structures and Algorithms <br>- Exploring deep learning <br>
 
 
